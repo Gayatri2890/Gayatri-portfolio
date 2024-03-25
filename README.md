@@ -33,11 +33,11 @@ There's no installation required to view this website. Simply click on the link 
 
 ## Usage
 
-Visit the live site [here](https://Gayatri2890.github.io/portfolio).
+Visit the live site [here](https://github.com/Gayatri2890.github.io/portfolio).
 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Bug fixes, feature enhancements, and suggestions for improvement are all welcome!
 
 ## Contact
-If you have any questions or feedback, you can reach me at example@email.com.
+If you have any questions or feedback, you can reach me at gayatrisatarupa24@gmail.com.

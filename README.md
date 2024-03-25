@@ -33,7 +33,7 @@ There's no installation required to view this website. Simply click on the link 
 
 ## Usage
 
-Visit the live site [here](https://github.com/Gayatri2890.github.io/portfolio).
+Visit the live site [here](https://github.com/Gayatri2890.portfolio).
 
 ## Contributing
 

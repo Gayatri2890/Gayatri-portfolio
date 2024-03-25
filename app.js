@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
         var email = document.getElementById('email').value;
         var message = document.getElementById('message').value;
         // Example: Log form input values to console
-        console.log('Name:', name);
-        console.log('Email:', email);
+        console.log('Name:', Gayatri Satarupa);
+        console.log('Email:', gayaytrisatarupa810@gmail.com);
         console.log('Message:', message);
         // You can add further processing here, such as sending the form data to a server
     });
